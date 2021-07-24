@@ -1,3 +1,0 @@
-# test
-this is to show my wife how to create repo
-and also to learn from local
